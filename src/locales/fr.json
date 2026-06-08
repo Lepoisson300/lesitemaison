@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "process": "Expertise & Process",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "lang_toggle": "EN"
+  },
+  "hero": {
+    "service": "Service",
+    "web_dev": "Développement Web",
+    "goal": "Objectif",
+    "better_sites": "De Meilleurs Sites",
+    "contact_btn": "Contact",
+    "main_title": "De Meilleurs Sites <br /> Pour Tous",
+    "card1_title": "Élevez Votre Marque",
+    "card1_desc": "Notre agence vous connecte avec des expériences web extraordinaires. Commencez votre voyage pour découvrir le partenaire numérique idéal pour votre activité.",
+    "satisfaction": "Satisfaction",
+    "card2_title": "Architecture Moderne",
+    "card2_subtitle": "Portée Globale, Impact Local",
+    "card2_desc": "Cette approche futuriste s'intègre parfaitement dans l'environnement numérique, offrant un espace fluide avec des vues techniques panoramiques. Son design innovant en fait une passerelle de luxe parfaite."
+  },
+  "seo": {
+    "badge": "Référencement",
+    "title": "Referencing (SEO)",
+    "desc": "Un beau site ne sert à rien si personne ne peut le trouver. Nous intégrons le SEO directement dans l'architecture de votre site, garantissant une visibilité maximale et une croissance organique.",
+    "features": {
+      "f1": {
+        "title": "Visibilité Mondiale",
+        "desc": "Nous nous assurons que votre site soit bien classé sur les moteurs de recherche mondiaux, attirant un trafic du monde entier."
+      },
+      "f2": {
+        "title": "Optimisation des Mots-Clés",
+        "desc": "Analyse approfondie et intégration des mots-clés qui comptent pour votre entreprise."
+      },
+      "f3": {
+        "title": "Croissance du Trafic",
+        "desc": "Croissance organique durable du trafic grâce à des stratégies SEO éthiques et éprouvées."
+      }
+    }
+  },
+  "process": {
+    "title": "Notre Méthodologie",
+    "subtitle": "De l'idée initiale jusqu'à la mise en production, nous concevons des architectures robustes, des maquettes inspirantes, et des pipelines de déploiement sécurisés.",
+    "step1": {
+      "title": "1. Conception de l'Architecture",
+      "desc": "Avant d'écrire la moindre ligne de code, nous pensons l'architecture technique de votre projet. Nous sélectionnons les bases de données, les API, et l'infrastructure cloud pour garantir scalabilité, sécurité et performances optimales.",
+      "frontend": "Frontend (React / Vite)",
+      "frontend_desc": "UI / UX",
+      "backend": "Backend API / Edge Functions",
+      "backend_desc": "Logique Métier",
+      "db": "Base de données (PostgreSQL)",
+      "db_desc": "Stockage"
+    },
+    "step2": {
+      "title": "2. Maquettes & Moodboards",
+      "desc": "L'identité visuelle est primordiale. Nous créons des moodboards inspirants et des maquettes haute-fidélité que nous vous proposons. Nous itérons ensemble jusqu'à ce que le design reflète parfaitement l'ADN de votre marque."
+    },
+    "step3": {
+      "title": "3. Validation & Développement",
+      "desc": "Une fois la maquette validée, notre équipe de développement prend le relais. Nous mettons en place des pipelines stricts pour assurer la qualité du code, les tests automatisés, et un déploiement continu.",
+      "pipeline": "Exemple de Pipeline CI/CD",
+      "commit": "Commit",
+      "commit_desc": "Code Pushed",
+      "lint": "Lint & Tests",
+      "lint_desc": "Jest / Cypress",
+      "build": "Build",
+      "build_desc": "Vite / Next.js",
+      "deploy": "Deploy",
+      "deploy_desc": "Vercel Edge"
+    }
+  },
+  "portfolio": {
+    "title": "Notre Travail",
+    "subtitle": "Découvrez quelques-unes des expériences web extraordinaires que nous avons créées. Architectures modernes, déploiements rapides et design parfait au pixel près.",
+    "view_project": "Voir le Projet",
+    "projects": {
+      "p1": {
+        "title": "ApexTrade Platform",
+        "category": "Dashboard Fintech"
+      },
+      "p2": {
+        "title": "Serenity Spa",
+        "category": "E-commerce & Réservation"
+      },
+      "p3": {
+        "title": "Lunar Oasis",
+        "category": "Landing Page Immobilier"
+      }
+    }
+  },
+  "contact": {
+    "title": "Prêt à commencer ?",
+    "subtitle": "Discutons de la manière dont nous pouvons donner vie à votre vision. Remplissez le formulaire ci-dessous et nous vous répondrons dans les 24 heures.",
+    "form": {
+      "name": "Nom",
+      "name_placeholder": "Jean Dupont",
+      "email": "Email",
+      "email_placeholder": "jean@exemple.com",
+      "message": "Message",
+      "message_placeholder": "Parlez-nous de votre projet...",
+      "submit": "Envoyer le Message",
+      "submitting": "Envoi..."
+    }
+  },
+  "footer": {
+    "copyright": "Tous droits réservés.",
+    "legal": "Mentions Légales",
+    "cgv": "CGV",
+    "confidentiality": "Politique de Confidentialité"
+  },
+  "legal": {
+    "back": "Retour à l'accueil",
+    "mentions": {
+      "title": "Mentions Légales",
+      "s1_title": "1. Éditeur du site",
+      "s1_desc": "Le présent site est édité par :<br/><strong>Rémi Puigsech</strong><br/>Statut : Entreprise Individuelle (EI)<br/>Adresse : CAMPAGNE<br/>SIREN : 990551582<br/>Email : contact@remipuigsech.fr",
+      "s2_title": "2. Directeur de la publication",
+      "s2_desc": "Le Directeur de la publication est Monsieur Rémi Puigsech.",
+      "s3_title": "3. Hébergement",
+      "s3_desc": "Le site est hébergé par Vercel Inc.<br/>Adresse : 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis.",
+      "s4_title": "4. Propriété intellectuelle",
+      "s4_desc": "L'ensemble de ce site relève de la législation française et internationale sur le droit d'auteur et la propriété intellectuelle. Tous les droits de reproduction sont réservés."
+    },
+    "cgv": {
+      "title": "Conditions Générales de Vente (CGV)",
+      "s1_title": "1. Objet",
+      "s1_desc": "Les présentes Conditions Générales de Vente régissent les relations contractuelles entre Rémi Puigsech, Entreprise Individuelle (SIREN: 990551582) située à CAMPAGNE, et tout client professionnel ou particulier souhaitant bénéficier des services de création de sites web, de référencement (SEO) et de déploiement.",
+      "s2_title": "2. Prestations",
+      "s2_desc": "L'entreprise Rémi Puigsech propose des prestations de développement web sur mesure. Les détails de chaque prestation sont définis dans un devis préalablement accepté par le client.",
+      "s3_title": "3. Tarifs et Modalités de paiement",
+      "s3_desc": "Les prix sont indiqués en euros. Conformément au régime fiscal applicable, la TVA peut être ou ne pas être applicable (franchise en base de TVA selon la législation). Le paiement s'effectue selon les conditions définies sur le devis (généralement 30 jours date de facture).",
+      "s4_title": "4. Délais de livraison",
+      "s4_desc": "Les délais de livraison sont donnés à titre indicatif. Tout retard ne saurait justifier l'annulation de la commande ou donner lieu à des pénalités, sauf stipulation contraire expresse.",
+      "s5_title": "5. Litiges",
+      "s5_desc": "En cas de litige, une solution amiable sera recherchée avant toute action judiciaire. À défaut, les tribunaux compétents seront ceux du ressort du siège social de l'entreprise Rémi Puigsech."
+    },
+    "conf": {
+      "title": "Politique de Confidentialité",
+      "s1_title": "1. Collecte des données personnelles",
+      "s1_desc": "Dans le cadre de l'utilisation de nos formulaires de contact, nous collectons les données suivantes : Nom, Prénom, et Adresse Email. Ces données sont utilisées exclusivement dans le but de répondre à vos demandes de prestation ou de partenariat.",
+      "s2_title": "2. Traitement et Hébergement",
+      "s2_desc": "Le traitement de ces données est réalisé par Rémi Puigsech (EI). Elles sont conservées pour une durée maximale de 3 ans après notre dernier contact. Le site étant hébergé par Vercel, certaines données techniques (adresses IP) peuvent être collectées à des fins de sécurité.",
+      "s3_title": "3. Vos droits",
+      "s3_desc": "Conformément à la réglementation RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement et de portabilité de vos données. Pour exercer ce droit, vous pouvez nous contacter à l'adresse suivante : contact@remipuigsech.fr.",
+      "s4_title": "4. Cookies",
+      "s4_desc": "Notre site utilise uniquement des cookies techniques nécessaires à son bon fonctionnement. Aucun cookie de suivi publicitaire n'est déposé sans votre consentement préalable."
+    }
+  }
+}

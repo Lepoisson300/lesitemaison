@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "Home",
+    "process": "Expertise & Process",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "lang_toggle": "FR"
+  },
+  "hero": {
+    "service": "Service",
+    "web_dev": "Web Dev",
+    "goal": "Goal",
+    "better_sites": "Better Sites",
+    "contact_btn": "Contact",
+    "main_title": "Better Websites <br /> For Everyone",
+    "card1_title": "Elevate Your Brand",
+    "card1_desc": "Our agency connects you with extraordinary web experiences. Start your journey to discovering the perfect digital match for your activity.",
+    "satisfaction": "Satisfaction",
+    "card2_title": "Modern Architecture",
+    "card2_subtitle": "Global Reach, Local Impact",
+    "card2_desc": "This futuristic approach seamlessly blends into the digital environment, offering a flowing space with panoramic technical views. Its innovative design makes it a perfect luxury gateway."
+  },
+  "seo": {
+    "badge": "SEO & Ranking",
+    "title": "Referencing (SEO)",
+    "desc": "A beautiful website is useless if no one can find it. We build SEO directly into the architecture of your site, ensuring maximum visibility and organic growth.",
+    "features": {
+      "f1": {
+        "title": "Global Visibility",
+        "desc": "We ensure your site ranks high on global search engines, attracting worldwide traffic."
+      },
+      "f2": {
+        "title": "Keyword Optimization",
+        "desc": "Deep analysis and integration of keywords that matter to your business."
+      },
+      "f3": {
+        "title": "Traffic Growth",
+        "desc": "Sustainable organic traffic growth with proven, white-hat SEO strategies."
+      }
+    }
+  },
+  "process": {
+    "title": "Our Methodology",
+    "subtitle": "From the initial idea to production release, we design robust architectures, inspiring mockups, and secure deployment pipelines.",
+    "step1": {
+      "title": "1. Architecture Conception",
+      "desc": "Before writing a single line of code, we design the technical architecture of your project. We select the right databases, APIs, and cloud infrastructure to ensure optimal scalability, security, and performance.",
+      "frontend": "Frontend (React / Vite)",
+      "frontend_desc": "UI / UX",
+      "backend": "Backend API / Edge Functions",
+      "backend_desc": "Business Logic",
+      "db": "Database (PostgreSQL)",
+      "db_desc": "Storage"
+    },
+    "step2": {
+      "title": "2. Mockups & Moodboards",
+      "desc": "Visual identity is paramount. We create inspiring moodboards and high-fidelity mockups that we present to you. We iterate together until the design perfectly reflects your brand's DNA."
+    },
+    "step3": {
+      "title": "3. Validation & Development",
+      "desc": "Once the mockup is validated, our development team takes over. We set up strict pipelines to ensure code quality, automated tests, and continuous deployment.",
+      "pipeline": "Example CI/CD Pipeline",
+      "commit": "Commit",
+      "commit_desc": "Code Pushed",
+      "lint": "Lint & Tests",
+      "lint_desc": "Jest / Cypress",
+      "build": "Build",
+      "build_desc": "Vite / Next.js",
+      "deploy": "Deploy",
+      "deploy_desc": "Vercel Edge"
+    }
+  },
+  "portfolio": {
+    "title": "Our Work",
+    "subtitle": "Discover some of the extraordinary web experiences we've built. Modern architectures, fast deployments, and pixel-perfect design.",
+    "view_project": "View Project",
+    "projects": {
+      "p1": {
+        "title": "ApexTrade Platform",
+        "category": "Fintech Dashboard"
+      },
+      "p2": {
+        "title": "Serenity Spa",
+        "category": "E-commerce & Booking"
+      },
+      "p3": {
+        "title": "Lunar Oasis",
+        "category": "Real Estate Landing"
+      }
+    }
+  },
+  "contact": {
+    "title": "Ready to begin?",
+    "subtitle": "Let's discuss how we can bring your vision to life. Fill out the form below and we will get back to you within 24 hours.",
+    "form": {
+      "name": "Name",
+      "name_placeholder": "John Doe",
+      "email": "Email",
+      "email_placeholder": "john@example.com",
+      "message": "Message",
+      "message_placeholder": "Tell us about your project...",
+      "submit": "Send Message",
+      "submitting": "Sending..."
+    }
+  },
+  "footer": {
+    "copyright": "All rights reserved.",
+    "legal": "Legal Notice",
+    "cgv": "Terms of Sales",
+    "confidentiality": "Privacy Policy"
+  },
+  "legal": {
+    "back": "Back to Home",
+    "mentions": {
+      "title": "Legal Notice",
+      "s1_title": "1. Publisher",
+      "s1_desc": "This site is published by:<br/><strong>Rémi Puigsech</strong><br/>Status: Sole Proprietorship (EI)<br/>Address: CAMPAGNE<br/>SIREN: 990551582<br/>Email: contact@remipuigsech.fr",
+      "s2_title": "2. Publication Director",
+      "s2_desc": "The Publication Director is Mr. Rémi Puigsech.",
+      "s3_title": "3. Hosting",
+      "s3_desc": "The site is hosted by Vercel Inc.<br/>Address: 440 N Barranca Ave #4133, Covina, CA 91723, USA.",
+      "s4_title": "4. Intellectual Property",
+      "s4_desc": "All contents of this site are subject to French and international legislation on copyright and intellectual property. All reproduction rights are reserved."
+    },
+    "cgv": {
+      "title": "General Terms of Sales (CGV)",
+      "s1_title": "1. Purpose",
+      "s1_desc": "These General Terms of Sales govern the contractual relationship between Rémi Puigsech, Sole Proprietorship (SIREN: 990551582) located in CAMPAGNE, and any professional or individual client wishing to benefit from web creation, SEO, and deployment services.",
+      "s2_title": "2. Services",
+      "s2_desc": "Rémi Puigsech offers custom web development services. The details of each service are defined in a quote previously accepted by the client.",
+      "s3_title": "3. Rates and Payment Terms",
+      "s3_desc": "Prices are indicated in euros. According to the applicable tax regime, VAT may or may not apply. Payment is made according to the terms defined on the quote (usually 30 days invoice date).",
+      "s4_title": "4. Delivery Times",
+      "s4_desc": "Delivery times are given as an indication. Any delay shall not justify order cancellation or give rise to penalties, unless expressly stipulated otherwise.",
+      "s5_title": "5. Disputes",
+      "s5_desc": "In case of dispute, an amicable solution will be sought before any legal action. Failing this, the competent courts will be those of Rémi Puigsech's headquarters."
+    },
+    "conf": {
+      "title": "Privacy Policy",
+      "s1_title": "1. Personal Data Collection",
+      "s1_desc": "When using our contact forms, we collect the following data: Last Name, First Name, and Email Address. This data is used exclusively to respond to your service or partnership requests.",
+      "s2_title": "2. Processing and Hosting",
+      "s2_desc": "The processing of this data is carried out by Rémi Puigsech (EI). It is kept for a maximum of 3 years after our last contact. As the site is hosted by Vercel, some technical data (IP addresses) may be collected for security purposes.",
+      "s3_title": "3. Your Rights",
+      "s3_desc": "In accordance with GDPR regulations, you have a right of access, rectification, erasure, and portability of your data. To exercise this right, you can contact us at: contact@remipuigsech.fr.",
+      "s4_title": "4. Cookies",
+      "s4_desc": "Our site only uses technical cookies necessary for its proper functioning. No advertising tracking cookie is deposited without your prior consent."
+    }
+  }
+}
