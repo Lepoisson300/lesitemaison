@@ -107,7 +107,7 @@ ${formData.message}
         className="relative z-10 w-full max-w-4xl mx-auto glass-card rounded-[3rem] p-6 md:p-16 border border-white/10 bg-white/5 backdrop-blur-2xl shadow-2xl"
       >
         <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-white/70">
+          <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-white to-white/70">
             {t('contact.title', 'Ready to begin?')}
           </h2>
           <p className="text-brand-secondary text-lg max-w-2xl mx-auto">

@@ -34,13 +34,13 @@ export function Hero() {
         <div className="flex-1" />
         <div className="flex items-center gap-6 glass-card px-8 py-4 rounded-full flex-2 justify-center">
           <div className="flex items-center gap-2">
-            <span className="text-sm font-semibold">{t('hero.service', 'Service')}</span>
-            <span className="text-sm text-brand-secondary">{t('hero.web_dev', 'Web Dev')}</span>
+            <span className="text-sm  text-left font-semibold">{t('hero.service', 'Service')}</span>
+            <span className="text-sm text-white/80">{t('hero.web_dev', 'Web Development')}</span>
           </div>
           <div className="w-px h-6 bg-brand-secondary/20" />
           <div className="flex items-center gap-2">
-            <span className="text-sm font-semibold">{t('hero.goal', 'Goal')}</span>
-            <span className="text-sm text-brand-secondary">{t('hero.better_sites', 'Better Sites')}</span>
+            <span className="text-sm text-white/80 font-semibold">{t('hero.goal', 'Goal')}</span>
+            <span className="text-sm text-white/80">{t('hero.better_sites', 'Better Digital Product')}</span>
           </div>
         </div>
         <div className="flex-1 flex justify-end">
@@ -79,17 +79,7 @@ export function Hero() {
             {t('hero.card1_desc', 'Our agency connects you with extraordinary web experiences. Start your journey to discovering the perfect digital match for your activity.')}
           </p>
           <div className="flex items-end gap-6">
-            <div>
-              <div className="text-4xl font-bold">100%</div>
-              <div className="text-sm font-medium text-brand-secondary mt-1">{t('hero.satisfaction', 'Satisfaction')}</div>
-            </div>
-            <div className="flex -space-x-4">
-              {[1, 2, 3].map((i) => (
-                <div key={i} className="w-12 h-12 rounded-full border-2 border-brand-bg bg-brand-secondary/30 overflow-hidden">
-                  <img src={`https://i.pravatar.cc/100?img=${i + 10}`} alt="Avatar" />
-                </div>
-              ))}
-            </div>
+
           </div>
         </motion.div>
 
@@ -102,15 +92,15 @@ export function Hero() {
         >
           <h3 className="text-xl font-bold mb-2">{t('hero.card2_title', 'Modern Architecture')}</h3>
           <div className="flex items-center gap-2 text-sm text-brand-secondary mb-4">
-            <MapPin className="w-4 h-4" /> {t('hero.card2_subtitle', 'Global Reach, Local Impact')}
+            <MapPin className="w-4 h-4" /> {t('hero.card2_subtitle', 'Based in Bordeaux, France')}
           </div>
           <p className="text-sm leading-relaxed mb-6">
-            {t('hero.card2_desc', 'This futuristic approach seamlessly blends into the digital environment, offering a flowing space with panoramic technical views. Its innovative design makes it a perfect luxury gateway.')}
+            {t('hero.card2_desc', 'Security, Scalability, SEO are the three words that defines our priorities. We are aware of all the news and hack possibilities to provide you the best product for your need.')}
           </p>
           <div className="flex gap-4 text-xs font-semibold text-brand-secondary">
-            <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-brand-accent"></span> SEO</span>
-            <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-brand-primary"></span> Speed</span>
-            <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-green-500"></span> Design</span>
+            <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-brand-accent"></span> Security</span>
+            <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-brand-primary"></span> Scalability</span>
+            <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-green-500"></span> SEO</span>
           </div>
         </motion.div>
       </div>

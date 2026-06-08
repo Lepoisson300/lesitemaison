@@ -8,17 +8,17 @@
   },
   "hero": {
     "service": "Service",
-    "web_dev": "Web Dev",
+    "web_dev": "Web Development",
     "goal": "Goal",
-    "better_sites": "Better Sites",
+    "better_sites": "Better digital products",
     "contact_btn": "Contact",
     "main_title": "Better Websites <br /> For Everyone",
     "card1_title": "Elevate Your Brand",
     "card1_desc": "Our agency connects you with extraordinary web experiences. Start your journey to discovering the perfect digital match for your activity.",
     "satisfaction": "Satisfaction",
     "card2_title": "Modern Architecture",
-    "card2_subtitle": "Global Reach, Local Impact",
-    "card2_desc": "This futuristic approach seamlessly blends into the digital environment, offering a flowing space with panoramic technical views. Its innovative design makes it a perfect luxury gateway."
+    "card2_subtitle": "Based in Bordeaux, France",
+    "card2_desc": "Security, Scalability, SEO are the three words that defines our priorities. We are aware of all the news and hack possibilities to provide you the best product for your need."
   },
   "seo": {
     "badge": "SEO & Ranking",
